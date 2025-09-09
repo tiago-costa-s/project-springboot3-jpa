@@ -3,6 +3,7 @@ package com.tiagocosta.project_jpa_spring.entities.pk;
 import java.io.Serializable;
 import java.util.Objects;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.tiagocosta.project_jpa_spring.entities.Order;
 import com.tiagocosta.project_jpa_spring.entities.Product;
 
